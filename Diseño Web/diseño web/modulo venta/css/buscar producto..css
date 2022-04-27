@@ -1,0 +1,126 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+    display: block;
+    width: 40px;
+    color: white;
+    background-color: white;
+    position: absolute;
+    transform: translate(3250%, 50%);
+    border-radius: 9px;
+}
+
+.icon img{
+    width: 30px;
+    align-items: center;
+    margin-left: 7%;
+
+}
+
+.logo{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.icon-login{
+    height: 120px;
+    margin-bottom: 1rem;
+    margin: auto;
+
+}
+
+.formularios-admin{
+    width: 800px;
+    padding: 30px;
+    margin:auto;
+    margin-top: 280px;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    background: black;
+}
+.contenForm{
+    justify-content:space-between;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+
+}
+
+input, select{
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+input[type="text"]{
+ color: white;
+
+}
+
+.input-p{
+    width: 49%;
+    border-radius: 15px;
+    text-align: center;
+    outline: none;
+    border: 1px solid white;
+    background-color: rgba(85, 193, 255, 0.2);
+    color: white;
+    font-size: 16px;
+    letter-spacing: 0.7px;
+}
+.input-h{
+    width: 100%;
+    border-radius: 15px;
+    text-align: center;
+    outline: none;
+    border: 1px solid white;
+    background-color: rgba(85, 193, 255, 0.2);
+    color: white;
+    font-size: 16px;
+    letter-spacing: 0.7px;
+}
+.input-g{
+    width: 100%;
+    border-radius: 15px;
+    text-align: center;
+    outline: none;
+    border: 1px solid white;
+    background-color: rgba(85, 193, 255, 0.2);
+    color: white;
+    font-size: 16px;
+    letter-spacing: 0.7px;
+}
+
+option{
+    color: black;
+
+}
+
+.boton{
+    width: 30%;
+    background: #715aff;
+    border-radius: 15px;
+    border: 1px solid white;
+    color: #fff;
+    cursor: pointer;
+    font-size:14px;
+    font-weight: bold;
+    justify-content: center;
+    margin: auto;
+    transition: 0.7s;
+
+}
+.boton:active{
+    transform: scale(1.08);
+}
+
+.boton:hover{
+    background: gold;
+
+}

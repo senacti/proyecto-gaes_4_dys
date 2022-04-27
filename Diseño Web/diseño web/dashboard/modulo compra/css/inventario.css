@@ -1,0 +1,77 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #FF9500;
+	font-family: 'Lato', sans-serif;
+}
+
+input, select{
+	margin-bottom: 15px;
+	padding: 10px;
+}
+.formulario-inicio-sesion{
+	width: 20%;
+	background: #161515;
+	padding: 30px;
+	margin:auto;
+	margin-top: 140px;
+	border-radius: 10px;
+	color: #ffffff;
+
+}
+
+.formulario-inicio-sesion img{
+	width: 30%;
+
+}
+
+.logo{
+	padding: 10px 0px 10px 120px;
+}
+
+.contenido{
+	margin-top: 40px;
+	margin-bottom: 20px;	
+ 	justify-content:space-between;
+    padding-top: ;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.titulo{
+	text-align: center;
+}
+
+.input-p{
+	width: 100%;
+}
+.input-g{
+	width: 100%;
+}
+.input-3{
+	width: 100%;
+}
+
+.botones{
+	text-align: center;
+
+}
+
+.boton{
+
+}
+
+.boton:active{
+	transform: scale(1.08);
+}
+
+.botonA{
+	
+text-align: center;
+	
+}

@@ -1,0 +1,85 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box; 
+}
+
+.eres{
+	display: block;
+	background: black;
+	margin: 0 auto;
+	margin-top: 10%;
+	width: 290px;
+	height: 450px;
+	border-radius: 10px;
+}
+.contenido{
+	width: 250px;
+	height: 350px;
+	margin: auto;
+	padding-top: 30px;
+
+}
+
+.logo img{
+	width: 250px;
+	height: 180px;
+}
+
+.botones{
+	width: 100px;
+	height: 100px;
+	margin: auto;
+	margin-top: 9%;
+}
+
+#boton1{
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	transition: background-color .5s;
+}
+#boton1:hover{
+	background-color: mediumpurple;
+
+}
+#boton2{
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	transition: background-color .5s;
+}
+#boton2:hover{
+	background-color: mediumpurple;
+
+}
+#boton3{
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	transition: background-color .5s;
+}
+#boton3:hover{
+	background-color: mediumpurple;
+
+}
+#boton4{
+	width: 100px;
+	height: 40px;
+	font-size: 15px;
+	transition: background-color .5s;
+}
+#boton4:hover{
+	background-color: mediumpurple;
+
+}
+
+#boton5{
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	transition: background-color .5s;
+}
+#boton5:hover{
+	background-color: mediumpurple;
+

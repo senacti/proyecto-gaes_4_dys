@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+body{
+	Background-image: url('../img/Página-de-error-1.jpg');
+	background-position: top;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
